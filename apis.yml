@@ -41,7 +41,6 @@ apis:
   - name: scraperBox
     description: "Undetectable web scraping API"
     humanURL: https://scraperbox.com/
-    baseURL: https://scraperbox.com/
     tags:
       - Development
     properties:
